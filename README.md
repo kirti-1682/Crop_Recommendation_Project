@@ -100,7 +100,3 @@ streamlit run app.py
 - **IoT sensor data** for automated soil reading.  
 - Add **fertilizer recommendations** and crop rotation logic.  
 - Deploy on **AWS / Streamlit Cloud**.  
-
-
-## 🪪 License
-This project is open-source under the **MIT License**.
