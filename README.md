@@ -101,14 +101,6 @@ streamlit run app.py
 - Add **fertilizer recommendations** and crop rotation logic.  
 - Deploy on **AWS / Streamlit Cloud**.  
 
----
-
-## 👩‍💻 Author
-**Madhuri Shingade**  
-💡 Data Science & Machine Learning Enthusiast  
-📧 [Add your email or LinkedIn profile]
-
----
 
 ## 🪪 License
 This project is open-source under the **MIT License**.
